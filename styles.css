@@ -1,5 +1,7 @@
 .holder{
 	display:flex;
+	justify-content:center;
+	align-items:center;
 /* 	margin:200px; */
 }	
 	
@@ -7,8 +9,6 @@
 	width:100px;
 	height:100px;
 	background-color:red;
-	margin:200px;
-	align-item:center;
 }
 
 
